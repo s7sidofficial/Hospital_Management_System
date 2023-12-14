@@ -12,17 +12,17 @@
 
 1. To import this project to your system, you need to first install below softwares: 
    - Eclipse for Java EE Developers and Tomcat server. You can refer this link: https://eclipseide.org/
-   - MySQL Workbench. You can refer this video: https://youtu.be/OM4aZJW_Ojs
+   - MySQL Workbench. You can refer this link: https://dev.mysql.com/downloads/workbench/
 
-2. Then get the code from this GitHub repository on your system. You can clone this repository or download as zip file.
+2. Next, download the code to your computer from this GitHub repository. This repository may be downloaded as a zip file or cloned.
 
-3. Choose 'import existing maven project' option in eclipse. 
-<br> You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
+3. Select the 'import existing maven project' option in Eclipse after launching it.
+    You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
 
-4. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
+5. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
 <br> You can refer this video: https://youtu.be/9icY7xwXbJo
 
-5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/rid17pawar/HospitalManagement/blob/master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
+6. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/rid17pawar/HospitalManagement/blob/master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
 <br> If you want to add more users just login as admin and choose 'add employee' option and fill all the details. It will create new employee with his own login credentials. The Aadhar no. will be the default password and Empid will be the username.
 
 ## Technologies Used-
