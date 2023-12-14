@@ -1,6 +1,6 @@
 # Hospital Management System
 
-## Description-
+## Description:
    Our goal in this project is to address the conventional problems in hospital administration.  The primary problems included improper data handling, time wastage during storage and retrieval, patients' incapacity to comprehend the prescription, etc. By giving physicians and other staff members individual user accounts, these problems are resolved. separating the data for each patient and tracking past visits with a simple click.
    
    This project offers advantages like platform independence, high performance, and security because it is written in Java and utilizes MySQL as the backend. The web application primarily makes use of the Hibernate and SpringMVC frameworks. 
@@ -16,8 +16,8 @@
 
 2. Next, download the code to your computer from this GitHub repository. This repository may be downloaded as a zip file or cloned.
 
-3. Select the 'import existing maven project' option in Eclipse after launching it.
-    You can search for those steps online, just search 'how to import existing maven project in eclipse'. 
+3. Select the **'import existing maven project'** option in Eclipse after launching it.
+    You can search for those steps online, just search **'how to import existing maven project in eclipse'**. 
 
 5. Then import the database files in your MySQL database. Database files are provided [here](https://github.com/rid17pawar/HospitalManagement/tree/master/databaseFiles%20and%20demoLoginCredentials/hospitaldb).
 <br> You can refer this video: https://youtu.be/9icY7xwXbJo
