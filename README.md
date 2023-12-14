@@ -1,16 +1,12 @@
 # Hospital Management System
 
-### _YouTube Video Link: [https://youtu.be/SwE4mxQxhEI](https://youtu.be/SwE4mxQxhEI)_
-
 ## Description-
-   In this Project we aim to solve the traditional issues of hospital management. The existing system provided paper based solution for keeping OPD records of patients and hospital staff, but it gives overload to Doctor, Receptionist and Administrator.  The main issues were inappropriate data keeping, time wastage in storage, retrieval also patients were unable to understand the prescription etc. These issues are solved by providing a separate user account for doctors and other staff. Keeping each patient’s data separate and track previous visits in a single click. 
+   Our goal in this project is to address the conventional problems in hospital administration.  The primary problems included improper data handling, time wastage during storage and retrieval, patients' incapacity to comprehend the prescription, etc. By giving physicians and other staff members individual user accounts, these problems are resolved. separating the data for each patient and tracking past visits with a simple click.
    
-   This project uses MYSQL as backend and is developed in Java so it provides features such as platform independence, high performance and security. It is a web application which mainly uses SpringMVC and Hibernate frameworks. 
+   This project offers advantages like platform independence, high performance, and security because it is written in Java and utilizes MySQL as the backend. The web application primarily makes use of the Hibernate and SpringMVC frameworks. 
    
-   It provides some enhanced features such as: an easy interface to add, remove employees as well as it provides PDF of prescription. Thus, reducing need to manually write  and  sign  by doctor.  <br>
-  #### PPT Presentation: [click here](https://drive.google.com/file/d/1L6zUvNPXV4mYNnl2zLYyxvyz2RwoUt1G/view?usp=sharing)  <br>
-  #### Project SRS: [click here](https://drive.google.com/file/d/11DQDP_ZN2h7Cq3hiIRw3pCzPhR_VCL8p/view?usp=sharing)  <br>
-  #### Project Report: [click here](https://drive.google.com/file/d/128Qn3pqBFj84w6OXBSwuWXYpag_Wn0dT/view?usp=sharing)
+   It offers a few upgraded capabilities, such a simple interface for adding and removing staff members and PDF prescriptions. Consequently, the doctor will not need to physically write and sign as much.  
+
   
 ## Steps to configure this HMS web-application on your system:
 
