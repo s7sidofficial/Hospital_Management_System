@@ -19,10 +19,9 @@
 3. Select the **'import existing maven project'** option in Eclipse after launching it.
     You can search for those steps online, just search **'how to import existing maven project in eclipse'**. 
 
-4. Create a new schema with the name **hospital_management** in your MySQL database. 
+4. In your MySQL database, create a new schema named **hospital_management**.
 
-5. You can then run this web-application on your Tomcat server. For login use the credentials provided in [this](https://github.com/rid17pawar/HospitalManagement/blob/master/databaseFiles%20and%20demoLoginCredentials/loginPasswordsForDemo.txt) file. (Select correct role and fill the Username and Password) 
-<br> If you want to add more users just login as admin and choose 'add employee' option and fill all the details. It will create new employee with his own login credentials. The Aadhar no. will be the default password and Empid will be the username.
+5. Modify the application database login and password in **application.properties**. After changing its attributes _**'Run as Spring Boot App'**_ web application .
 
 ## Technologies Used-
 
