@@ -71,5 +71,10 @@
       
 5. Password Encryption:
       - Password encryption is done using *_Bcrypt Encoding_*. The password hashing algorithm known as Bcrypt was created by Niels Provos and David Mazières. On the Blowfish cipher, it is based. Bcrypt stores passwords using an adaptive hash technique. When encoding passwords, BCrypt internally creates a random salt; hence, it is evident that several encoded results may be obtained for the same text. However, it consistently produces a String with a length of 60.
+  
+
+
+![Screenshot 2023-12-14 194517](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/1834d296-8564-43f2-a7fb-c623249cca9f)
+
 
 ### Thank You !
