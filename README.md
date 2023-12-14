@@ -43,7 +43,7 @@
 
 
 ## Features-
-**1. Administrator Module:**
+1. Administrator Module:
       - Add new employee for following roles,
                       i) Admin (another one)
                      ii) Doctor
@@ -52,24 +52,24 @@
       - Remove/edit existing employee. 
       - Displays all activities in system.
         
-**2. Doctor Module:**
+2. Doctor Module:
       - Seperate accounts for doctors
       - Each patients previous visits history is easily to access.
       - Doctor can generate prescription and it will be automatically sent to receptionist.
       
-**3. Receptionist Module:**
+3. Receptionist Module:
       - Register/add new patient's info.
       - Modify patients personal details.
       - Search existing patient by name/ patient id.
       - Take print of prescriptions.
 
-**4. Pharmacist Module:**
+4. Pharmacist Module:
       - Manage all the medicine related data.
       - Register the new medicine company.
       - Register the new medicine.
       - Search existing medicine by name/ id.
       
-**5. Password Encryption:**
+5. Password Encryption:
       - Password encryption is done using *_Bcrypt Encoding_*. The password hashing algorithm known as Bcrypt was created by Niels Provos and David Mazières. On the Blowfish cipher, it is based. Bcrypt stores passwords using an adaptive hash technique. When encoding passwords, BCrypt internally creates a random salt; hence, it is evident that several encoded results may be obtained for the same text. However, it consistently produces a String with a length of 60.
 
 
