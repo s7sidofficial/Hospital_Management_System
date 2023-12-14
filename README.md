@@ -7,3 +7,5 @@ This project offers advantages like platform independence, high performance, and
 
 It offers a few upgraded capabilities, like a simple interface for adding and removing staff members and PDF prescriptions. Consequently, the doctor will not need to write and sign as much.
 
+# How to set up your system to use this HMS web-application:
+1. You must first install the following softwares on your computer before you can import this project:
