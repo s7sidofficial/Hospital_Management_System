@@ -11,7 +11,7 @@
 ## Steps to configure this HMS web-application on your system:
 
 1. To import this project to your system, you need to first install below softwares: 
-   - Eclipse for Java EE Developers and Tomcat server. You can refer this video: https://youtu.be/9iHKCnxUWqQ
+   - Eclipse for Java EE Developers and Tomcat server. You can refer this link: https://eclipseide.org/
    - MySQL Workbench. You can refer this video: https://youtu.be/OM4aZJW_Ojs
 
 2. Then get the code from this GitHub repository on your system. You can clone this repository or download as zip file.
