@@ -23,8 +23,9 @@
 
 5. Modify the application database login and password in **application.properties**. After changing its attributes _**'Run as Spring Boot App'**_ web application .
 
-## **Technologies Used:**
 
+
+## **Technologies Used:**
 
 <h3 align="left"><b><i>1. Front End Technologies </i></b> </h3<p align="left"> 
 
@@ -40,6 +41,7 @@
 
 <h3 align="left"><b><i>3. Database </i></b> </h3<p align="left">
 <br><p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> </p>
+
 
 
 ## **Features:**
@@ -74,6 +76,9 @@
   
 
 
+## **Snapshots:**
+
+1. Home Page:
 ![Screenshot 2023-12-14 194517](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/1834d296-8564-43f2-a7fb-c623249cca9f)
 
 
