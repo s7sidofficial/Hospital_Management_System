@@ -104,4 +104,10 @@ _**5. Phamacist Dashboard**_
 
 _**6. Receptionist Dashboard**_
 
+![Screenshot 2023-12-14 195827](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/32d1e5ed-5dee-48b7-b445-49005cec40ba)
+
+![Screenshot 2023-12-14 195819](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/5d5ffe1d-4274-4398-8e87-98bff6f01346)
+
+![Screenshot 2023-12-14 195811](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/fef2aeca-a66d-4854-b61d-c29b63614980)
+
 ### Thank You !
