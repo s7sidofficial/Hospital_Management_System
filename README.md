@@ -82,5 +82,26 @@ _**1. Home Page:**_
 
 ![Screenshot 2023-12-14 194517](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/1834d296-8564-43f2-a7fb-c623249cca9f)
 
+_**2. Login Page**_
+
+![Screenshot 2023-12-14 194541](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/31f878bb-87c2-4cfe-b55d-b18869ab91bd)
+
+_**3. Admin Dashboard**_
+
+![Screenshot 2023-12-14 194605](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/6e75c6ac-5f8f-4c3c-b1d7-07afb7b2851f)
+
+_**4. Doctor Dashboard**_
+
+![Screenshot 2023-12-14 194633](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/d2a054d6-2a6c-4dde-84a0-cb8bd6b958b5)
+
+_**5. Phamacist Dashboard**_
+
+![Screenshot 2023-12-14 195556](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/ea95eb94-2806-4f28-9688-01b62d4c45c3)
+
+![Screenshot 2023-12-14 195612](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/7442f1bd-138d-4997-94b3-ff58a27ec41c)
+
+![Screenshot 2023-12-14 195625](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/5eeffe2f-6ddd-4169-9b99-30d605b6a3fc)
+
+_**6. Receptionist Dashboard**_
 
 ### Thank You !
