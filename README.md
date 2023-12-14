@@ -78,7 +78,8 @@
 
 ## **Snapshots:**
 
-1. Home Page:
+_**1. Home Page:**_
+
 ![Screenshot 2023-12-14 194517](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/1834d296-8564-43f2-a7fb-c623249cca9f)
 
 
