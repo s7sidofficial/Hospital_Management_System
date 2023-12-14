@@ -41,46 +41,35 @@
 <h3 align="left"><b><i>3. Database </i></b> </h3<p align="left">
 <br><p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> </p>
 
-  
-### 4. Project management tool:
-  - Maven
-  
-### 5. Webserver:
-  - Apache Tomcat
-  
-
-## Issues that proposed system overcomes-
-   - It is digital system rather than paper based.
-   - Inappropriate data keeping (receptionist used register for patients entry and doctor used prescription pad).
-   - Time wastage in data storage and retrieval.
-   - Human error possibility in maintainance.
-   - Patient's were unable to understand prescriptions due to handwriting issue.
-   - Durability issues (data may lost if prescriptions goes missing).
-
 
 ## Features-
-  1. Doctor module:
+1. Administrator Module:
+      - Add new employee for following roles,
+                      i) Admin (another one)
+                     ii) Doctor
+                    iii) Receptionist
+                     iv) Pharmacist
+      - Remove/edit existing employee. 
+      - Displays all activities in system.
+        
+2. Doctor Module:
       - Seperate accounts for doctors
       - Each patients previous visits history is easily to access.
       - Doctor can generate prescription and it will be automatically sent to receptionist.
-      - Doctor can remove patient from OPD queue.
       
-  2. Receptionist module:
+3. Receptionist Module:
       - Register/add new patient's info.
-      - Modify patients personal details
-      - Search existing patient by name/ mobile no./ PID/ aadhar no.
-      - Remove patient from OPD queue.
+      - Modify patients personal details.
+      - Search existing patient by name/ patient id.
       - Take print of prescriptions.
+
+4. Pharmacist Module:
+      - Manage all the medicine related data.
+      - Register the new medicine company.
+      - Register the new medicine.
+      - Search existing medicine by name/ id.
       
-  3. Administrator module:
-      - Add new employee for following roles,
-                      i) Doctor
-                     ii) Receptionist
-                    iii) Admin (another one)
-      - Remove/edit existing employee. 
-      - Displays currently active employees in system.
-      
-  4. Password Encryption:
+6. Password Encryption:
       - *_Bcrypt Encoding_* is used for password encryption. Bcrypt is a password hashing function designed by Niels Provos and David Mazières. It is based on the Blowfish cipher. Bcrypt uses adaptive hash algorithm to store password. BCrypt internally generates a random salt while encoding passwords and hence it is obvious to get different encoded results for the same string. But one common thing is that everytime it generates a String of length 60.
 
 
