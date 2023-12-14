@@ -1,6 +1,6 @@
 # Hospital Management System
 
-## Description:
+## **Description:**
    Our goal in this project is to address the conventional problems in hospital administration.  The primary problems included improper data handling, time wastage during storage and retrieval, patients' incapacity to comprehend the prescription, etc. By giving physicians and other staff members individual user accounts, these problems are resolved. separating the data for each patient and tracking past visits with a simple click.
    
    This project offers advantages like platform independence, high performance, and security because it is written in Java and utilizes MySQL as the backend. The web application primarily makes use of the Hibernate and SpringMVC frameworks. 
@@ -23,7 +23,7 @@
 
 5. Modify the application database login and password in **application.properties**. After changing its attributes _**'Run as Spring Boot App'**_ web application .
 
-## Technologies Used:
+## **Technologies Used:**
 
 
 <h3 align="left"><b><i>1. Front End Technologies </i></b> </h3<p align="left"> 
@@ -42,7 +42,7 @@
 <br><p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> </p>
 
 
-## Features-
+## **Features:**
 1. Administrator Module:
       - Add new employee for following roles,
                       i) Admin (another one)
