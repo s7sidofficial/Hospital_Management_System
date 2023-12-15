@@ -110,4 +110,4 @@ _**6. Receptionist Dashboard**_
 
 ![Screenshot 2023-12-14 195811](https://github.com/s7sidofficial/Hospital_Management_System/assets/144090292/fef2aeca-a66d-4854-b61d-c29b63614980)
 
-### Thank You !
+### Thank You !😉
